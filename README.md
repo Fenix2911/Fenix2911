@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fenix2911
-- 👀 I’m interested in ITSEC/BigData
-- 🌱 I’m currently learning JS, C#
-- 📫 How to reach me? Here or on IG
+- 👀 I’m interested in Backend/FullDtack
+- 🌱 I’m currently learning Java/Django
+- 📫 How to reach me? Here or on LinkedIn 
 
 <!---
 Fenix2911/Fenix2911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
