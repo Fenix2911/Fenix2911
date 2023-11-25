@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fenix2911
-- 👀 I’m interested in Backend/FullDtack
+- 👀 I’m interested in Backend/FullStack
 - 🌱 I’m currently learning Java/Django
 - 📫 How to reach me? Here or on LinkedIn 
 
