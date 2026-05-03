@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fenix2911 - Fullstack Developer
 - 👀 I’m interested in DevOps/Backend
-- 🌱 I’m currently learning: NEXT.js/Django & Django REST Framework
+- 🌱 I’m currently mastering: React/FastAPI
 - 📫 How to reach me? E-mai: jakub.kuc.11@gmail.com or on [LinkedIn](https://www.linkedin.com/in/jakub-kuc/)
 
 
